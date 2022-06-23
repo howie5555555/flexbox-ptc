@@ -1,0 +1,27 @@
+.container{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.box1{
+    background-color: green;
+    width: 25%;
+    height: 500px;
+}
+.box2{
+    background-color: rgb(84, 215, 172);
+    width: 50%;
+    height: 500px;
+    margin: 5px;
+}
+.box3{
+    background-color: rgb(240, 77, 104);
+    width: 25%;
+    height: 500px;
+}
+.rounded{
+    border-radius: 1rem;
+}
+.mt-1{
+    margin-top: 5px;
+}
